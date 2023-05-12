@@ -1,1 +1,294 @@
+#EXTM3U
 
+#EXTINF: -1 tvg-id="I6.18955.schedulesdirect.org" tvg-name="A&E" tvg-logo="https://cdn.mitvstatic.com/channels/mx_a-e-mundo_m.png" group-title="Entretenimiento", A&E
+http://jagertv.us:2999/skycaster/cambio/6
+
+#EXTINF: -1 tvg-id="I58.90898.schedulesdirect.org" tvg-name="A3S" tvg-logo="https://www.cineytele.com/wp-content/uploads/2016/12/AtresSerie-Logo.jpg" group-title="Entretenimiento", A3S
+http://jagertv.us:2999/skycaster/cambio/13
+
+#EXTINF: -1 tvg-id="I20.90653.schedulesdirect.org" tvg-name="AMC" tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2018/08/amc-logo-2016.jpg" group-title="Entretenimiento", AMC
+http://jagertv.us:2999/skycaster/cambio/16
+
+#EXTINF: -1 tvg-id="I79.72534.schedulesdirect.org" tvg-name="AXN" tvg-logo="https://brandemia.org/sites/default/files/nuevo_logo_axn_2.jpg" group-title="Entretenimiento", AXN
+http://jagertv.us:2999/skycaster/cambio/19
+
+#EXTINF: -1 tvg-id="I64.87047.schedulesdirect.org" tvg-name="AXN WHITE" tvg-logo="https://pbs.twimg.com/profile_images/1334801686309838850/zH4L2hgp.jpg" group-title="Entretenimiento", AXN WHITE
+http://jagertv.us:2999/skycaster/cambio/20
+
+#EXTINF: -1 tvg-id="I192.46608.schedulesdirect.org" tvg-name="DISCOVERY TURBO" tvg-logo="https://cdn.mitvstatic.com/channels/5345f2b8-0871-4da8-b21b-d046ff9588ff_m.jpg" group-title="Entretenimiento", DISCOVERY TURBO}
+
+#EXTINF: -1 tvg-name="EL GARAGE" tvg-logo="https://cdn.mitvstatic.com/channels/ar_el-garage_m.png" group-title="Entretenimiento", EL GARAGE
+http://jagertv.us:2999/skycaster/cambio/59
+
+#EXTINF: -1 tvg-id="I241.87056.schedulesdirect.org" tvg-name="FOX" tvg-logo="https://i.pinimg.com/280x280_RS/4e/a7/9c/4ea79c2b8eaaa0ed0b13000aeca9cab1.jpg" group-title="Entretenimiento", FOX
+http://jagertv.us:2999/skycaster/cambio/69
+
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="FX" tvg-logo="https://pbs.twimg.com/profile_images/1059375747788390400/sn2AY1Ob_400x400.jpg" group-title="Entretenimiento", FX
+http://jagertv.us:2999/skycaster/cambio/80
+
+#EXTINF: -1 tvg-id="sony.us" tvg-name="SONY" tvg-logo="https://cdn.mitvstatic.com/channels/co_sony_m.png" group-title="Entretenimiento", SONY
+http://jagertv.us:2999/skycaster/cambio/112
+
+#EXTINF: -1 tvg-name="TNT Series" tvg-logo="https://assets.elimparcial.com/__export/1562611313007/sites/elimparcial/img/2019/07/08/tnt-series_crop1562611186225.png_423682103.png" group-title="Entretenimiento", TNT Series
+http://jagertv.us:2999/skycaster/cambio/365
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="WARNER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Warner_Bros_logo.svg/982px-Warner_Bros_logo.svg.png" group-title="Entretenimiento", WARNER
+http://jagertv.us:2999/skycaster/cambio/366
+
+
+
+#EXTINF: -1 tvg-id="I218.14899.zap2it.com" tvg-name="GOLF CHANNEL" tvg-logo="https://pbs.twimg.com/profile_images/982436045001240576/_hR6LA3b_400x400.jpg" group-title="DEPORTES", GOLF CHANNEL
+http://jagertv.us:2999/skycaster/cambio/12
+
+#EXTINF: -1 tvg-id="201odtv.cl" tvg-name="DIRECTV SPORTS 1" tvg-logo="https://www.ver-television.online/images/directvsportsplus_.png" group-title="DEPORTES", DIRECTV SPORTS 1
+http://jagertv.us:2999/skycaster/cambio/351
+
+#EXTINF: -1 tvg-id="179dts+.cl" tvg-name="DIRECTV SPORTS +" tvg-logo="https://www.ecuapaginas.com/wp-content/uploads/2019/10/directv-sports-1024x576.jpg" group-title="DEPORTES", DIRECTV SPORTS +
+http://jagertv.us:2999/skycaster/cambio/352
+
+#EXTINF: -1 tvg-id="M+DEPORTESHD" tvg-name="MOVISTAR DEPORTES" tvg-logo="https://copaamericacentenario.com/wp-content/uploads/2018/03/movistar-deportes.png" group-title="DEPORTES", MOVISTAR DEPORTES
+http://jagertv.us:2999/skycaster/cambio/688
+
+#EXTINF: -1 tvg-id="I411.1745.tvguide.co.uk" tvg-name="Eurosport 2" group-title="DEPORTES", Eurosport 2
+http://jagertv.us:2999/skycaster/cambio/36285
+
+#EXTINF: -1 tvg-name="MOVISTAR DEPORTES." tvg-logo="https://copaamericacentenario.com/wp-content/uploads/2018/03/movistar-deportes.png" group-title="DEPORTES", MOVISTAR DEPORTES.
+http://jagertv.us:2999/skycaster/cambio/689
+
+#EXTINF: -1 tvg-name="LIGA 1 MAX " tvg-logo="https://elcomercio.pe/resizer/Wqeu4phzZB8_gcfChDltUc1K4dY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/UZEC33NGGNHGTJ3YX27XKVCKB4.png" group-title="DEPORTES", LIGA 1 MAX
+#EXTINF: -1 tvg-name="DIRECTV SPORTS" tvg-logo="https://pbs.twimg.com/profile_images/1335010852181860352/wV_lHG2W.jpg" group-title="DEPORTES", DIRECTV SPORTS
+http://jagertv.us:2999/skycaster/cambio/17021
+
+
+#EXTINF: -1 tvg-id="I282.57394.zap2it.com" tvg-name="ANIMAL PLANET" tvg-logo="https://www.tv.maocal.com/images/animal.png" group-title="CULTURA", ANIMAL PLANET
+http://jagertv.us:2999/skycaster/cambio/17
+#EXTINF: -1 tvg-id="I177.96307.schedulesdirect.org" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://pbs.twimg.com/profile_images/49017252/Discovery-logo.jpg" group-title="CULTURA", DISCOVERY CHANNEL
+http://jagertv.us:2999/skycaster/cambio/42
+
+#EXTINF: -1 tvg-id="I443.43362.zap2it.com" tvg-name="HISTORY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="CULTURA", HISTORY CHANNEL
+http://jagertv.us:2999/skycaster/cambio/92
+
+#EXTINF: -1 tvg-id="I435.72449.zap2it.com" tvg-name="NAT GEO MUNDO" tvg-logo="https://pbs.twimg.com/profile_images/496293907886403584/yQYuZTjL_400x400.png" group-title="CULTURA", NAT GEO MUNDO
+http://jagertv.us:2999/skycaster/cambio/102
+
+#EXTINF: -1 tvg-id="I283.67331.zap2it.com" tvg-name="NAT GEO WILD" tvg-logo="https://4.bp.blogspot.com/-NEHF7mv2dQc/WG2gPGTgs3I/AAAAAAAABoc/yxTUmMZzghI3tKxvGyQZsLSJIB8CB4SVgCLcB/s1600/maxresdefault.jpg" group-title="CULTURA", NAT GEO WILD
+http://jagertv.us:2999/skycaster/cambio/103
+#EXTINF: -1 tvg-id="I189.46610.schedulesdirect.org" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://cdn.mitvstatic.com/channels/co_discovery-science_m.png" group-title="CULTURA", DISCOVERY SCIENCE
+http://jagertv.us:2999/skycaster/cambio/280
+
+
+
+#EXTINF: -1 tvg-id="I313.59837.schedulesdirect.org" tvg-name="HBO" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO-logo.png" group-title="CINEMA PREMIUM", HBO
+http://jagertv.us:2999/skycaster/cambio/87
+#EXTINF: -1 tvg-id="I632.68140.schedulesdirect.org" tvg-name="HBO 2" tvg-logo="https://cdn.mitvstatic.com/channels/cl_hbo-2_m.png" group-title="CINEMA PREMIUM", HBO 2
+http://jagertv.us:2999/skycaster/cambio/88
+
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://www.htcinc.net/wp-content/uploads/2019/03/starz-encore.jpg" group-title="CINEMA PREMIUM", STUDIO UNIVERSAL
+http://jagertv.us:2999/skycaster/cambio/116
+
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="TNT" tvg-logo="https://pbs.twimg.com/profile_images/1330728097348538368/i6cFKl8w_400x400.jpg" group-title="CINEMA PREMIUM", TNT
+http://jagertv.us:2999/skycaster/cambio/243
+
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="GOLDEN" tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden_m.png" group-title="CINEMA PREMIUM", GOLDEN
+http://jagertv.us:2999/skycaster/cambio/244
+
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="GOLDEN PREMIER" tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="CINEMA PREMIUM", GOLDEN PREMIER
+http://jagertv.us:2999/skycaster/cambio/245
+
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="UNIVERSAL COMEDY" tvg-logo="https://cdn.mitvstatic.com/channels/cl_fox-premium-comedy_m.png" group-title="CINEMA PREMIUM", UNIVERSAL COMEDY
+http://jagertv.us:2999/skycaster/cambio/247
+
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Universal Channel" tvg-logo="https://pbs.twimg.com/profile_images/49045732/logo-universal-channel.jpg" group-title="CINEMA PREMIUM", Universal Channel
+http://jagertv.us:2999/skycaster/cambio/248
+
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="HBO MUNDI" tvg-logo="https://www.claro.com.co/portal/recursos/co/cpp/promociones/imagenes/1576097903824-HBO-mundi-pequenio-b.png" group-title="CINEMA PREMIUM", HBO MUNDI
+http://jagertv.us:2999/skycaster/cambio/250
+
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="Paramount" tvg-logo="https://pbs.twimg.com/profile_images/1249929366353649669/c_MyBiGs.jpg" group-title="CINEMA PREMIUM", Paramount
+http://jagertv.us:2999/skycaster/cambio/251
+
+#EXTINF: -1 tvg-id="I366.91184.schedulesdirect.org" tvg-name="MOVISTAR COMEDIA" group-title="CINEMA PREMIUM", MOVISTAR COMEDIA
+http://jagertv.us:2999/skycaster/cambio/36606
+
+#EXTINF: -1 tvg-name="MOVISTAR DISNEY" group-title="CINEMA PREMIUM", MOVISTAR DISNEY
+http://jagertv.us:2999/skycaster/cambio/36608
+
+#EXTINF: -1 tvg-name="MOVISTAR ESTRENOS" group-title="CINEMA PREMIUM", MOVISTAR ESTRENOS
+http://jagertv.us:2999/skycaster/cambio/36610
+#EXTINF: -1 tvg-name="CINE| A ESTRENAR FHD" group-title="CINEMA PREMIUM", CINE| A ESTRENAR FHD
+http://jagertv.us:2999/skycaster/cambio/36734
+
+
+
+#EXTINF: -1 tvg-id="aztecamundo.mx" tvg-name="AZ MUNDO" tvg-logo="https://cdn.mitvstatic.com/channels/gt_azteca-13_m.png" group-title="NOVELAS", AZ MUNDO
+http://jagertv.us:2999/skycaster/cambio/24
+#EXTINF: -1 tvg-name="AZTECA 1" tvg-logo="https://www.reportv.com.ar/buscador/img/Logos/1901427.jpg" group-title="NOVELAS", AZTECA 1
+http://jagertv.us:2999/skycaster/cambio/25
+
+#EXTINF: -1 tvg-id="lasestrellas.mx" tvg-name="LAS ESTRELLAS" tvg-logo="https://comteco.com.bo/img/upload/canales/las-estrellas.png" group-title="NOVELAS", LAS ESTRELLAS
+http://jagertv.us:2999/skycaster/cambio/33
+#EXTINF: -1 tvg-name="MEX-Telemundo (M)(720)" tvg-logo="https://1.bp.blogspot.com/-zznJ3i27jig/Xm7W33f_2YI/AAAAAAAABoc/jTgvMxfZfKsUl9HYYo4RvBdC2X0Q16YcgCLcBGAsYHQ/s200/50.png" group-title="NOVELAS", MEX-Telemundo (M)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/1362
+
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="NOVELAS",Kanal D Drama (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="NIÑOS",Cartoon Network México (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="CartoonitoMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="NIÑOS",Cartoonito México (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-id="SEOTV2Kids.bo" tvg-logo="https://i.imgur.com/BC0Ii7i.png" group-title="NIÑOS",SEO TV Kids (1080p)
+https://live.seo.tv.bo/live/2SEO.m3u8
+
+#EXTINF:-1 tvg-id="LatinoKidsTV.uy" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="NIÑOS",LatinoKids (360p) [Not 24/7]
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+
+
+#EXTINF: -1 tvg-id="I119.55719.schedulesdirect.org" tvg-name="BOOMERANG" tvg-logo="https://cdn.mitvstatic.com/channels/pe_boomerang-cartoon_m.png" group-title="NIÑOS", BOOMERANG
+http://jagertv.us:2999/skycaster/cambio/30
+
+#EXTINF: -1 tvg-id="I114.16141.schedulesdirect.org" tvg-name="CARTOON NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Cartoon_network_modified_logo.PNG" group-title="NIÑOS", CARTOON NETWORK
+http://jagertv.us:2999/skycaster/cambio/35
+
+#EXTINF: -1 tvg-id="I186.45955.schedulesdirect.org" tvg-name="DISCOVERY KIDS " tvg-logo="https://i.pinimg.com/originals/5d/16/97/5d1697354b266bfbb505e4c512eb3c89.png" group-title="NIÑOS", DISCOVERY KIDS
+http://jagertv.us:2999/skycaster/cambio/48
+
+#EXTINF: -1 tvg-id="I318.19234.schedulesdirect.org" tvg-name="DISNEY CHANNEL" tvg-logo="https://sm.ign.com/ign_es/screenshot/default/1280px-disney-channel-logosvg_gyjq.png" group-title="NIÑOS", DISNEY CHANNEL
+http://jagertv.us:2999/skycaster/cambio/54
+
+#EXTINF: -1 tvg-id="I196.61311.schedulesdirect.org" tvg-name="DISNEY JR" tvg-logo="http://bulltv.us/logoscanales/disneyjr.jpg" group-title="NIÑOS", DISNEY JR
+http://jagertv.us:2999/skycaster/cambio/55
+
+#EXTINF: -1 tvg-id="I292.18279.zap2it.com" tvg-name="DISNEY XD" tvg-logo="https://pbs.twimg.com/profile_images/1249030020988690432/VD98W-hQ_400x400.png" group-title="NIÑOS", DISNEY XD
+http://jagertv.us:2999/skycaster/cambio/56
+
+#EXTINF: -1 tvg-id="I299.11006.zap2it.com" tvg-name="NICK" tvg-logo="https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/webplex/site/nick/intl/nickelodeon-600x600.png" group-title="NIÑOS", NICK
+http://jagertv.us:2999/skycaster/cambio/105
+
+#EXTINF: -1 tvg-id="I301.82649.zap2it.com" tvg-name=" NICK JR" tvg-logo="https://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="NIÑOS", NICK JR
+http://jagertv.us:2999/skycaster/cambio/106
+
+#EXTINF: -1 tvg-id="nicktoons.us" tvg-name="NICKTOONS" tvg-logo="https://kafkadesk.org/wp-content/uploads/2019/09/nicktoons-czech-republic.jpg" group-title="NIÑOS", NICKTOONS
+http://jagertv.us:2999/skycaster/cambio/107
+
+#EXTINF: -1 tvg-id="babyfirst.us" tvg-name="BABY FIRTS" tvg-logo="https://i.blogs.es/b808d8/baby_first_tv/450_1000.jpg" group-title="NIÑOS", BABY FIRTS
+http://jagertv.us:2999/skycaster/cambio/377
+
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="NICKELODEON" tvg-logo="https://www.plexcollectionposters.com/images/2019/03/11/Nickelodeonb34d161fdb16ee60.png" group-title="NIÑOS", NICKELODEON
+http://jagertv.us:2999/skycaster/cambio/379
+
+#EXTINF: -1 tvg-id="I824.56036.schedulesdirect.org" tvg-name="BABY TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61C2TSxmMwL.png" group-title="NIÑOS", BABY TV
+http://jagertv.us:2999/skycaster/cambio/380
+
+#EXTINF: -1 tvg-id="boing.sp" tvg-name="BOING" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Boing_2020.png" group-title="NIÑOS", BOING
+http://jagertv.us:2999/skycaster/cambio/382
+#EXTINF: -1 tvg-id="I419.17054.zap2it.com" tvg-name="CNN ESPAÑOL" tvg-logo="https://www.entornointeligente.com/wp-content/uploads/2020/08/2_aviones_rusos_hacen_intercepcion_a_C2_80_C2_98inseguraa_C2_80_C2_99_de_bombardero_b_52_de_la_fuerza_aerea_de_ee_uu_.png" group-title="Noticias", CNN ESPAÑOL
+http://jagertv.us:2999/skycaster/cambio/39
+
+
+
+
+#EXTINF: -1 tvg-name="WILLAX TV" tvg-logo="https://cdn.mitvstatic.com/channels/pe_willax_m.png" group-title="PERU", WILLAX TV
+http://jagertv.us:2999/skycaster/cambio/681
+
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/RMFG5au.png" group-title="PERU",Latina (480p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
+
+
+#EXTINF: -1 tvg-name="LATINA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg" group-title="PERU", LATINA SD
+http://jagertv.us:2999/skycaster/cambio/691
+
+#EXTINF: -1 tvg-name="LATINA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Latina_televisi%C3%B3n_12_2019.jpg" group-title="PERU", LATINA FHD
+http://jagertv.us:2999/skycaster/cambio/66347
+
+#EXTINF: -1 tvg-name="AMERICA TV HD" tvg-logo="https://pbs.twimg.com/profile_images/1330425819072786432/i0fArXQp_400x400.jpg" group-title="PERU", AMERICA TV HD
+http://jagertv.us:2999/skycaster/cambio/66344
+
+#EXTINF: -1 tvg-name="PANAMERICANA" tvg-logo="https://ciarglobal.com/wp-content/uploads/2019/10/PanamericanaTV-300x300.jpg" group-title="PERU", PANAMERICANA
+http://jagertv.us:2999/skycaster/cambio/684
+
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="PERU",Panamericana TV (298p) [Not 24/7]
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="PERU",TV Perú Internacional (460p) [Not 24/7]
+
+#EXTINF: -1 tvg-name="TV PERU" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/tvperu_avatar.png" group-title="PERU", TV PERU
+http://jagertv.us:2999/skycaster/cambio/17022
+
+#EXTINF: -1 tvg-name="TV PERU NOTICIAS" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/tv-per-noticias-en-vivo-1459.png" group-title="PERU", TV PERU NOTICIAS
+http://jagertv.us:2999/skycaster/cambio/680
+
+http://jagertv.us:2999/skycaster/cambio/122387
+#EXTINF: -1 tvg-id="ATV.pe" tvg-name="PER-ATV (M)(720)" tvg-logo="https://1.bp.blogspot.com/-llu-9dmTbq8/Xw_BmejBqTI/AAAAAAAAAZg/0AEQSQYwOAgun2AKJL1B7Bb3G5A4ulkdACLcBGAsYHQ/w200-h200/ATV.png" group-title="PERU", PER-ATV (M)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/5276
+
+#EXTINF: -1 tvg-id="ATV.pe" tvg-name="PER-ATV (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-llu-9dmTbq8/Xw_BmejBqTI/AAAAAAAAAZg/0AEQSQYwOAgun2AKJL1B7Bb3G5A4ulkdACLcBGAsYHQ/w200-h200/ATV.png" group-title="PERU", PER-ATV (M)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/22169
+
+#EXTINF: -1 tvg-name="PER-Canal N (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-B9BDRwwOw8c/Xw_BnNoYKMI/AAAAAAAAAZs/GaUqj7HQOB8VbQEGuShFi6fGyRBA8_GywCLcBGAsYHQ/w200-h200/Canla%2BN%2BPeru.png" group-title="PERU", PER-Canal N (TV)(SD)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/31437
+
+#EXTINF: -1 tvg-id="PlusSurperu.pe" tvg-name="PER-RPP (SD)(M)" tvg-logo="https://1.bp.blogspot.com/-OXeqCZJyBC8/Xw_Bp5Ata6I/AAAAAAAAAaE/Zzghr8Od0SEBNhtra0v8Ro-5tfwKekFrgCLcBGAsYHQ/w200-h200/RPP%2BPeru.png" group-title="PERU", PER-RPP (SD)(M)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/31438
+
+#EXTINF: -1 tvg-id="Exitosa.pe" tvg-name="PER-Exitosa (X)(720)" tvg-logo="http://tv.proyectox.vip:28000/images/1a5a73ceeba767d8c4a12facd0299135.png" group-title="PERU", PER-Exitosa (X)(720)
+http://tv.multitv.live:39001/canadaplus2019/V3nVPu4TtT/153592
+
+#EXTINF:-1 tvg-id="MegaTVArequipa.pe" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="PERU",Mega TV (Arequipa) [Not 24/7]
+https://hls.servidor.stream/storage/megatv.m3u8
+
+#EXTINF:-1 tvg-id="VisionTVMusica.pe" tvg-logo="https://i.imgur.com/AihIIGn.png" group-title="PERU",Visión TV Musica (720p) [Not 24/7]
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
+
+#EXTINF: -1 tvg-name="MUSIC | Latinos Radio * | CL" tvg-logo="https://i2.paste.pics/f5a6133c6b0fcec076105dfd2508549c.png" group-title="PERU", MUSIC | Latinos Radio * | CL
+http://jagertv.us:2999/skycaster/cambio/36628
+
+#EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/r0foZ5t.png" group-title="PERU",Congreso TV [Not 24/7]
+https://ythls.onrender.com/channel/UCsKiP5cZCYh9YhPGrI6GrkQ.m3u8
+
+#EXTINF:-1 tvg-id="ElHistonautaTV.ar" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="PERU",El Histonauta TV (360p)
+https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HiperconectadosTV.cl" tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="PERU",Hiperconectados Televisión (720p)
+https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PlatziTV.es" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="PERU",Platzi TV (1080p)
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+
+#EXTINF:-1 tvg-id="ChinchaTV.pe" tvg-logo="https://i.imgur.com/CryJ1Aj.png" group-title="PERU",Chincha TV [Not 24/7]
+https://tvdatta.com:3548/live/chinchatvlive.m3u8
+
+#EXTINF:-1 tvg-id="TVBellaAsuncion.pe" tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="PERU",Bella Asuncion TV (720p) [Not 24/7]
+https://tvdatta.com:3602/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="CineClubTV.pe" tvg-logo="https://i.imgur.com/w7r386A.png" group-title="PERU",TecSatel Cine TV (Arequipa) (720p) [Not 24/7]
+https://servilive.com:3176/live/cineclublive.m3u8
+
+#EXTINF:-1 tvg-id="PlanetaTV.pe" tvg-logo="https://i.imgur.com/mL3lLAF.png" group-title="PERU",Planeta TV
+https://live.obslivestream.com/planetatv/index.m3u8
+
+
+
+#EXTINF: -1 tvg-id="I192.46608.schedulesdirect.org" tvg-name="DISCOVERY TURBO" tvg-logo="http://bulltv.us/logoscanales/discoveryturbo.png" group-title="PREMIUM FHD", DISCOVERY TURBO
+http://jagertv.us:2999/skycaster/cambio/12258
+#EXTINF: -1 tvg-id="I23.96445.schedulesdirect.org" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://bulltv.us/logoscanales/animalplanet.png" group-title="PREMIUM FHD", ANIMAL PLANET FHD
+http://jagertv.us:2999/skycaster/cambio/12259
+
+#EXTINF: -1 tvg-id="I313.59837.schedulesdirect.org" tvg-name="HBO FHD" tvg-logo="http://bulltv.us/logoscanales/hbo.png" group-title="PREMIUM FHD", HBO FHD
+http://jagertv.us:2999/skycaster/cambio/12271
+
+#EXTINF: -1 tvg-id="I636.70081.schedulesdirect.org" tvg-name="HBO MUNDI FHD" tvg-logo="http://bulltv.us/logoscanales/hbomundi.png" group-title="PREMIUM FHD", HBO MUNDI FHD
+http://jagertv.us:2999/skycaster/cambio/12273
+
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="HBO PLUS FHD" tvg-logo="http://bulltv.us/logoscanales/hboplus.png" group-title="PREMIUM FHD", HBO PLUS FHD
+http://jagertv.us:2999/skycaster/cambio/12276
+
+#EXTINF: -1 tvg-id="I122.11097.schedulesdirect.org" tvg-name="HBO XTREME FHD" tvg-logo="http://bulltv.us/logoscanales/hboxtreme.png" group-title="PREMIUM FHD", HBO XTREME FHD
+http://jagertv.us:2999/skycaster/cambio/12277
+
+#EXTINF: -1 tvg-name="AMERICA TV SD " tvg-logo="https://pbs.twimg.com/profile_images/1330425819072786432/i0fArXQp_400x400.jpg" group-title="PERU", AMERICA TV SD
+http://jagertv.us:2999/skycaster/cambio/66345
