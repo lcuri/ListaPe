@@ -1,7 +1,116 @@
 #EXTM3U
 
+#EXTINF:-1,A&E HD
+http://38.43.140.97:8000/play/a03l/index.m3u8
+#EXTINF:-1,AMC HD
+http://38.43.140.97:8000/play/a015/index.m3u8
+#EXTINF:-1,AXN HD
+http://38.43.140.97:8000/play/a03o/index.m3u8
+#EXTINF:-1,AZ Cinema HD
+http://38.43.140.97:8000/play/a01d/index.m3u8
+#EXTINF:-1,Clover HD
+http://38.43.140.97:8000/play/a03t/index.m3u8
+#EXTINF:-1,Golden HD
+http://38.43.140.97:8000/play/a00n/index.m3u8
+#EXTINF:-1,HBO 2 HD
+http://38.43.140.97:8000/play/a01e/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://38.43.140.97:8000/play/a00j/index.m3u8
+#EXTINF:-1,HBO HD
+http://38.43.140.97:8000/play/a01h/index.m3u8
+#EXTINF:-1,HBO POP HD
+http://38.43.140.97:8000/play/a03r/index.m3u8
+#EXTINF:-1,HBO XTREME HD
+http://38.43.140.97:8000/play/a00k/index.m3u8
+#EXTINF:-1,Sony HD
+http://38.43.140.97:8000/play/a03m/index.m3u8
+#EXTINF:-1,Space HD
+http://38.43.140.97:8000/play/a03p/index.m3u8
+#EXTINF:-1,Studio Universal HD
+http://38.43.140.97:8000/play/a01b/index.m3u8
+#EXTINF:-1,TNT Series HD
+http://38.43.140.97:8000/play/a01u/index.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://38.43.140.97:8000/play/a01m/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://38.43.140.97:8000/play/a00b/index.m3u8
+#EXTINF:-1,STAR TVE HD
+http://38.43.140.97:8000/play/a01c/index.m3u8
+#EXTINF:-1,Paramount HD
+
+
+#EXTINF:-1,Animal Planet HD
+http://38.43.140.97:8000/play/a01g/index.m3u8
+#EXTINF:-1,Discovery H&H HD
+http://38.43.140.97:8000/play/a01k/index.m3u8
+#EXTINF:-1,Discovery HD
+http://38.43.140.97:8000/play/a00g/index.m3u8
+#EXTINF:-1,Discovery Theater HD
+http://38.43.140.97:8000/play/a01l/index.m3u8
+#EXTINF:-1,Discovery World HD
+http://38.43.140.97:8000/play/a013/index.m3u8
+#EXTINF:-1,History 2 HD
+http://38.43.140.97:8000/play/a00i/index.m3u8
+#EXTINF:-1,History Channel HD
+http://38.43.140.97:8000/play/a03k/index.m3u8
+#EXTINF:-1,Nat Geo HD
+http://38.43.140.97:8000/play/a012/index.m3u8
+
+#EXTINF:-1,Caracol HD
+http://38.43.140.97:8000/play/a00d/index.m3u8
+#EXTINF:-1,Telenovelas
+http://38.43.140.97:8000/play/a03h/index.m3u8
+#EXTINF:-1,Las Estrellas HD
+http://38.43.140.97:8000/play/a00e/index.m3u8
+#EXTINF:-1,RCN HD
+http://38.43.140.97:8000/play/a01x/index.m3u8
+#EXTINF:-1,Nick Music HD
+http://38.43.140.97:8000/play/a01r/index.m3u8
+
+
+#EXTINF:-1,Cartoon Network HD
+http://38.43.140.97:8000/play/a019/index.m3u8
+#EXTINF:-1,Cinecanal HD
+http://38.43.140.97:8000/play/a014/index.m3u8
+#EXTINF:-1,Clover HD
+http://38.43.140.97:8000/play/a03t/index.m3u8
+#EXTINF:-1,DHE HD
+http://38.43.140.97:8000/play/a00f/index.m3u8
+#EXTINF:-1,Discovery Kids HD
+http://38.43.140.97:8000/play/a01j/index.m3u8
+
+
+#EXTINF:-1,ESPN 4 HD
+http://38.43.140.97:8000/play/a01o/index.m3u8
+#EXTINF:-1,ESPN EXTRA HD
+http://38.43.140.97:8000/play/a016/index.m3u8
+#EXTINF:-1,ESPN HD
+http://38.43.140.97:8000/play/a03x/index.m3u8
+#EXTINF:-1,FOX Sports 2 HD
+http://38.43.140.97:8000/play/a01p/index.m3u8
+#EXTINF:-1,FX HD
+http://38.43.140.97:8000/play/a01v/index.m3u8
+#EXTINF:-1,Food Network HD
+http://38.43.140.97:8000/play/a00u/index.m3u8
+#EXTINF:-1,Fox Sports 1 HD
+http://38.43.140.97:8000/play/a00h/index.m3u8
+#EXTINF:-1,GOLPERU HD
+http://38.43.140.97:8000/play/a00y/index.m3u8
+#EXTINF:-1,GolTV HD
+http://38.43.140.97:8000/play/a00s/index.m3u8
+#EXTINF:-1,Win Sports+ HD
+http://38.43.140.97:8000/play/a01f/index.m3u8
+#EXTINF:-1,Movistar Deportes HD
+http://38.43.140.97:8000/play/a00l/index.m3u8
+#EXTINF:-1,TNT SPORTS HD
+http://38.43.140.97:8000/play/a03q/index.m3u8
+
+
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/RMFG5au.png" group-title="Perú",Latina (480p) [Geo-blocked]
 https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
+
+#EXTINF: -1 tvg-name="AMERICA TV HD" tvg-logo="https://pbs.twimg.com/profile_images/1330425819072786432/i0fArXQp_400x400.jpg" group-title="PERU", AMERICA TV HD
+http://38.43.140.97:8000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Perú",Panamericana TV (298p) [Not 24/7]
 https://cdnhd.iblups.com/hls/ptv2.m3u8
@@ -12,26 +121,29 @@ https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="TVPeruNoticias.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png" group-title="Perú",TV Perú Noticias (768p) [Not 24/7]
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 
-#EXTINF:-1 tvg-id="MegaTVArequipa.pe" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="Otros",Mega TV (Arequipa) [Not 24/7]
+#EXTINF:-1,RPP
+http://38.43.140.97:8000/play/a03g/index.m3u8
+
+#EXTINF:-1 tvg-id="MegaTVArequipa.pe" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="Perú",Mega TV (Arequipa) [Not 24/7]
 https://hls.servidor.stream/storage/megatv.m3u8
 
-#EXTINF:-1 tvg-id="VisionTVMusica.pe" tvg-logo="https://i.imgur.com/AihIIGn.png" group-title="Música",Visión TV Musica (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="VisionTVMusica.pe" tvg-logo="https://i.imgur.com/AihIIGn.png" group-title="Perú",Visión TV Musica (720p) [Not 24/7]
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/r0foZ5t.png" group-title="Otros",Congreso TV [Not 24/7]
+#EXTINF:-1 tvg-id="CongresoTV.pe" tvg-logo="https://i.imgur.com/r0foZ5t.png" group-title="Perú",Congreso TV [Not 24/7]
 https://ythls.onrender.com/channel/UCsKiP5cZCYh9YhPGrI6GrkQ.m3u8
 
-#EXTINF:-1 tvg-id="ElHistonautaTV.ar" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="Documentales",El Histonauta TV (360p)
+#EXTINF:-1 tvg-id="ElHistonautaTV.ar" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="Perú",El Histonauta TV (360p)
 https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ChinchaTV.pe" tvg-logo="https://i.imgur.com/CryJ1Aj.png" group-title="Otros",Chincha TV [Not 24/7]
+#EXTINF:-1 tvg-id="ChinchaTV.pe" tvg-logo="https://i.imgur.com/CryJ1Aj.png" group-title="Perú",Chincha TV [Not 24/7]
 https://tvdatta.com:3548/live/chinchatvlive.m3u8
 
-#EXTINF:-1 tvg-id="TVBellaAsuncion.pe" tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="Otros",Bella Asuncion TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TVBellaAsuncion.pe" tvg-logo="https://i.imgur.com/H69eLFW.png" group-title="Peru",Bella Asuncion TV (720p) [Not 24/7]
 https://tvdatta.com:3602/stream/play.m3u8
 
-#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Otros",Kanal D Drama (1080p)
+#EXTINF:-1 tvg-id="KanalDDrama.tr" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Perú",Kanal D Drama (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CineClubTV.pe" tvg-logo="https://i.imgur.com/w7r386A.png" group-title="Otros",TecSatel Cine TV (Arequipa) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="CineClubTV.pe" tvg-logo="https://i.imgur.com/w7r386A.png" group-title="Perú",TecSatel Cine TV (Arequipa) (720p) [Not 24/7]
 https://servilive.com:3176/live/cineclublive.m3u8
